@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BLEex</string>
+    <string name="ble_start">BLE Start</string>
+    <string name="scan">SCAN</string>
 </resources>
